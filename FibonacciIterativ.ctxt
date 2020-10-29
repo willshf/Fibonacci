@@ -1,5 +1,5 @@
 #BlueJ class context
 comment0.target=FibonacciIterativ
 comment1.params=n
-comment1.target=int\ fibIterativ(int)
+comment1.target=int\ fibonacciIterativ(int)
 numComments=2
